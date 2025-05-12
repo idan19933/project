@@ -1,0 +1,15 @@
+C:\Users\hshan\source\repos\series_analizer\series_analizer\bin\Debug\net8.0\series_analizer.exe
+C:\Users\hshan\source\repos\series_analizer\series_analizer\bin\Debug\net8.0\series_analizer.deps.json
+C:\Users\hshan\source\repos\series_analizer\series_analizer\bin\Debug\net8.0\series_analizer.runtimeconfig.json
+C:\Users\hshan\source\repos\series_analizer\series_analizer\bin\Debug\net8.0\series_analizer.dll
+C:\Users\hshan\source\repos\series_analizer\series_analizer\bin\Debug\net8.0\series_analizer.pdb
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.AssemblyInfoInputs.cache
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.AssemblyInfo.cs
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.csproj.CoreCompileInputs.cache
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.sourcelink.json
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.dll
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\refint\series_analizer.dll
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.pdb
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\series_analizer.genruntimeconfig.cache
+C:\Users\hshan\source\repos\series_analizer\series_analizer\obj\Debug\net8.0\ref\series_analizer.dll
