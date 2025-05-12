@@ -2,6 +2,10 @@
 {
     static void Main(string[] args)
     {
+        //foreach(string arg in args)
+        //{
+        //    Console.WriteLine(arg);
+        //}
         menu();
 
         string viewMenuAndChooseOption()
@@ -11,7 +15,9 @@
                 "b.Display the original series\n" +
                 "c.Display in reversed order\n" +
                 "d.Display the series in a sorted order\n" +
-                "e. Display maximum value");
+                "e. Display maximum value\n" +
+                "f. Display minimum value \n");
+            
             string option = Console.ReadLine()!;
             return option;
         }
@@ -38,6 +44,10 @@
                     case "e":
                         showMax(seriesNumbers);
                         break;
+                    case "f":
+                        showMin(seriesNumbers);
+                        break;
+                        
                 }
                 option = viewMenuAndChooseOption();
             }
@@ -58,6 +68,23 @@
             {
                 Console.WriteLine(numbers[i]);
             }
+        }
+
+        void showMin(List<int> numbers)
+        {
+            int min = int.MaxValue;
+            foreach (int number in numbers)
+            {
+                if (number < min)
+                {
+                    min = number;
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            Console.WriteLine(min);
         }
 
         void showMax(List<int> numbers)
